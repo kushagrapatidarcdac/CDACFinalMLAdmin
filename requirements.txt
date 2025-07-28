@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+uvicorn
+fastapi
+pydantic
+pydantic_settings
+motor
+python-dotenv
+pickle
